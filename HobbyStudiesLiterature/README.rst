@@ -12,7 +12,10 @@ This is a paper list about research on hobbies.
 Learning Sciences
 ===========
 
-`Azevedo, F. (2018) A pedagogy for interest development: The case of amateur astronomy practice. Learning, Culture and Society
+Interest
+---------
+
+`Azevedo, F. (2018) A pedagogy for interest development: The case of amateur astronomy practice. Learning, Culture and Social Interaction
  <https://doi.org/10.1016/j.lcsi.2018.11.008>`_
 
 Leisure Studies
