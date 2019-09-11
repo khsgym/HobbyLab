@@ -1,6 +1,6 @@
 Literature of Research on Hobbies.
 **********************************
-This is a paper list about research on hobbies made by `Kohei Sugiyama<https://researchmap.jp/ksugiyama/?lang=english>`_.
+This is a paper list about research on hobbies made by `Kohei Sugiyama <https://researchmap.jp/ksugiyama/?lang=english>`_.
 
 .. contents::
     :local:
