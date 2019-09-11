@@ -35,6 +35,25 @@ In learning sciences, hobbies are regarded as "interest-driven practices" involv
   | Cognition and Instruction, 29(2): 147-184
   | 2011
 
+Information Science
+=============
+
+Information Behavior
+------------------------
+
+`Leisure and hobby information and its users
+<https://doi.org/10.1201/9780203757635>`_
+  | Hartel, J.
+  | Encyclopedia of Library and Information Science, Third Edition, pp. 3263-3274
+  | 2010
+
+`Managing documents at home for serious leisure: a case study of the hobby of gourmet cooking
+<https://doi.org/10.1108/00220411011087841>`_
+  | Hartel, J.
+  | Journal of Documentation, 66(6): 847-874
+  | 2010
+
+
 Leisure Studies
 ==========
 
