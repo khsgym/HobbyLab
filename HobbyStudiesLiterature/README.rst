@@ -1,6 +1,6 @@
 Literature of Research on Hobbies.
 **********************************
-This is a paper list about research on hobbies made by `Kohei Sugiyama <https://researchmap.jp/ksugiyama/?lang=english>`_.
+This is a interdisciplinary paper list about research on hobbies made by `Kohei Sugiyama <https://researchmap.jp/ksugiyama/?lang=english>`_.
 
 .. contents::
     :local:
@@ -35,13 +35,39 @@ In learning sciences, hobbies are regarded as "interest-driven practices" involv
   | Cognition and Instruction, 29(2): 147-184
   | 2011
 
+Connected Learning
+-----------------------
+
+Connected Learning is a framework for design of  learning environments  developed by Mizuko Ito and her colleagues. It features peer-supported, interest-powered, and academically oriented contexts for learning, which bridging youths' hobbies to their career developments.
+
+`Affinity Online: How Connection and Shared Interest Fuel Learning.
+<https://nyupress.org/9781479852758/affinity-online/>`_
+ | Ito, M., Martin, C., Pfister, R. C., Rafalow, M. H., Salen, K., and Wortman. A.
+ | New York University Press
+ | 2018
+
+`Measuring experiences of interest-related pursuits in connected learning
+<https://doi.org/10.1007/s11423-016-9453-6>`_
+ | Maul, A., Penuel, W. R., Dadey, N., Gallagher, L. P., Podkul, T., and Price, E.
+ | Educational Technology Research and Development, 65: 1-28
+ | 2017
+
+`Connected Learning: An Agenda for Research and Design
+<https://clalliance.org/publications/connected-learning-an-agenda-for-research-and-design/>`_
+ | Ito, M., Gutiérrez, K., Livingstone, S., Penuel, B., Rhodes, J., Salen, K., Schor, J., Sefton-Green, J., and Craig, S. W.
+ | Digital Media and Learning Research Hub
+ | 2013
+
+Making and Makerspaces
+----------------------------
+
 Information Science
 =============
 
 Information Behavior
 ------------------------
 
-Avid hobbyists collect, organize, and exchange substantive amount of  information about their interests. This is a unique way of everyday information behavior. 
+Avid hobbyists collect, organize, and exchange substantive amount of  information about their interests. This is a unique way of everyday information behavior.
 
 `Leisure and hobby information and its users
 <https://www.taylorfrancis.com/books/e/9780203757635>`_
