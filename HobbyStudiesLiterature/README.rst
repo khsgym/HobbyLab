@@ -17,6 +17,11 @@ Interest
 
 In learning sciences, hobbies are regarded as "interest-driven practices" involving learning domain-specific knowledge in out-of-school settings. This nature of interest-drivenness is attractive to learning scientists willing to design learner-centered learning environments.
 
+`A pedagogy for interest development: The case of amateur astronomy practice. <<https://doi.org/10.1016/j.lcsi.2018.11.008>`_
+  |Azevedo, F.
+  |Learning, Culture and Social Interaction
+  |2018
+
 `Azevedo, F. (2018) A pedagogy for interest development: The case of amateur astronomy practice. Learning, Culture and Social Interaction
 <https://doi.org/10.1016/j.lcsi.2018.11.008>`_
 
