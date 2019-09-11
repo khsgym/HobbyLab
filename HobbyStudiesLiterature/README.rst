@@ -54,3 +54,41 @@ Robert A. Stebbins is a pioneer sociologist who developed a perspective for capt
   | Stebbins, R. A.
   | Pacific Sociological Review, 20(4): 582-606
   | 1977
+
+Psychology
+=======
+
+Positive Psychology
+----------------------
+
+Engaging in leisure activities is seen to enhance positive psychological states such as subjective well-being (SWB). Especially, involvement in serious leisure provides opportunities for mastery and meanings of life which are factors mediating SWB.
+
+`Serious leisure qualities and subjective well-being
+<https://doi.org/10.1080/17439760.2017.1374437>`_
+  | Lee, K. J., and Hwang, S.
+  | Journal of Positive Psychology, 13(1): 48-56
+  | 2018
+
+`Leisure Engagement and Subjective Well-Being: A Meta-Analysis
+<https://doi.org/10.1037/a0038508>`_
+  | Kuykendall, L., Tay, L., and Ng, V.
+  | Psychological Bulletin, 141(2): 364-403
+  | 2015
+
+ `Leisure and Subjective Well-Being: A Model of Psychological Mechanisms as Mediating Factors.
+ <https://doi.org/10.1007/s10902-013-9435-x>`_
+  | Newman, D. B., Tay, L., and Diener, E.
+  | Journal of Happiness Studies, 15: 555-578
+  | 2014
+
+History
+=====
+
+Modernization
+-----------------
+
+`A Job You Can't Lose: Work and Hobbies in the Great Depression
+<https://doi.org/10.1353/jsh/24.4.741>`_
+  | Gelber, S. M.
+  | Journal of Social History, 24(4): 741-766
+  | 1991
