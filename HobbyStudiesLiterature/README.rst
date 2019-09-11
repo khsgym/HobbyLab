@@ -76,7 +76,7 @@ Engaging in leisure activities is seen to enhance positive psychological states 
   | 2015
 
 `Leisure and Subjective Well-Being: A Model of Psychological Mechanisms as Mediating Factors.
- <https://doi.org/10.1007/s10902-013-9435-x>`_
+<https://doi.org/10.1007/s10902-013-9435-x>`_
   | Newman, D. B., Tay, L., and Diener, E.
   | Journal of Happiness Studies, 15: 555-578
   | 2014
