@@ -41,8 +41,10 @@ Information Science
 Information Behavior
 ------------------------
 
+Avid hobbyists collect, organize, and exchange substantive amount of  information about their interests. This is a unique way of everyday information behavior. 
+
 `Leisure and hobby information and its users
-<https://doi.org/10.1201/9780203757635>`_
+<https://www.taylorfrancis.com/books/e/9780203757635>`_
   | Hartel, J.
   | Encyclopedia of Library and Information Science, Third Edition, pp. 3263-3274
   | 2010
