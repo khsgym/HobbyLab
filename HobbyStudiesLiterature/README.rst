@@ -74,7 +74,7 @@ Engaging in leisure activities is seen to enhance positive psychological states 
   | Kuykendall, L., Tay, L., and Ng, V.
   | Psychological Bulletin, 141(2): 364-403
   | 2015
-
+  
  `Leisure and Subjective Well-Being: A Model of Psychological Mechanisms as Mediating Factors.
  <https://doi.org/10.1007/s10902-013-9435-x>`_
   | Newman, D. B., Tay, L., and Diener, E.
