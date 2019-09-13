@@ -23,6 +23,12 @@ In learning sciences, hobbies are regarded as "interest-driven practices" involv
   | Learning, Culture and Social Interaction
   | 2018
 
+`Knowing the Stability of Model Rockets: A Study of Learning in Interest-Based Practices
+<http://dx.doi.org/10.1080/07370008.2013.799168>`_
+  | Azevedo, F.
+  | Cognition and Instruction, 31(3): 345-374
+  | 2013
+
 `The tailored practice of hobbies and its implication for the design of interest-driven learning environments.
 <https://doi.org/10.1080/10508406.2012.730082>`_
   | Azevedo, F.
@@ -34,6 +40,12 @@ In learning sciences, hobbies are regarded as "interest-driven practices" involv
   | Azevedo, F.
   | Cognition and Instruction, 29(2): 147-184
   | 2011
+
+`Serious Fun: Viewing Hobbyist Activities through a Learning Lens.
+<http://dx.doi.org/10.1080/21548455.2013.824130>`
+  | Liu, C-C., and Falk, J. H.
+  | International Journal of Science Education, Part B, 4(4): 343-355
+  | 2014
 
 Connected Learning
 -----------------------
@@ -60,6 +72,26 @@ Connected Learning is a framework for design of  learning environments  develope
 
 Making and Makerspaces
 ----------------------------
+
+Maker movement in education leverages hobbyists' passion and culture for making and crafting to design creative learning environments. Its theoretical background is Constructionism developed by Seymour Papert, which features problem-solving through making objects, and iterative design process of debugging and tinkering.
+
+`Materials-to-develop with: The making of a makerspace
+<https://doi.org/10.1111/bjet.12702>`_
+  | Keune, A. and Peppler, K.
+  | British Journal of Educational Technology
+  | 2019
+
+`Interest development and learning in choice-based, in-school, making activities: The case of a 3D printer
+<https://doi.org/10.1016/j.lcsi.2018.11.009>`_
+  | Rame, K. and Stevens, R.
+  | Learning, Culture and Social Interaction
+  | 2018
+
+  `Invent to Learn: Making, Tinkering, and Engineering in the Classroom
+  <https://inventtolearn.com/>`_
+   | Martinez, S. L. and Stager, G.
+   | Constructing Modern Knowledge Press
+   | 2013
 
 Information Science
 =============
@@ -101,6 +133,9 @@ Robert A. Stebbins is a pioneer sociologist who developed a perspective for capt
   | Stebbins, R. A.
   | Pacific Sociological Review, 20(4): 582-606
   | 1977
+
+Recreation Specialization
+----------------------------
 
 Psychology
 =======
