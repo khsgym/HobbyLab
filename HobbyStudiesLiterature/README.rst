@@ -73,7 +73,7 @@ Connected Learning is a framework for design of  learning environments  develope
 Making and Makerspaces
 ----------------------------
 
-Maker movement in education leverages hobbyists' passion and culture for making and crafting to design creative learning environments. Its theoretical background is Constructionism developed by Seymour Papert, which features problem-solving through making objects, and iterative design process of debugging and tinkering.
+Maker movement in education leverages hobbyists' passion and culture for making and crafting to design creative learning environments. Its theoretical background is Constructionism by Seymour Papert, which features problem-solving through making objects, and iterative design process of debugging and tinkering.
 
 `Materials-to-develop with: The making of a makerspace
 <https://doi.org/10.1111/bjet.12702>`_
