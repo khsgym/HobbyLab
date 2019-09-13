@@ -42,7 +42,7 @@ In learning sciences, hobbies are regarded as "interest-driven practices" involv
   | 2011
 
 `Serious Fun: Viewing Hobbyist Activities through a Learning Lens.
-<http://dx.doi.org/10.1080/21548455.2013.824130>`
+<http://dx.doi.org/10.1080/21548455.2013.824130>`_
   | Liu, C-C., and Falk, J. H.
   | International Journal of Science Education, Part B, 4(4): 343-355
   | 2014
