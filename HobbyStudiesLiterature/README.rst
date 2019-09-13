@@ -87,11 +87,11 @@ Maker movement in education leverages hobbyists' passion and culture for making 
   | Learning, Culture and Social Interaction
   | 2018
 
-  `Invent to Learn: Making, Tinkering, and Engineering in the Classroom
-  <https://inventtolearn.com/>`_
-   | Martinez, S. L. and Stager, G.
-   | Constructing Modern Knowledge Press
-   | 2013
+`Invent to Learn: Making, Tinkering, and Engineering in the Classroom
+<https://inventtolearn.com/>`_
+  | Martinez, S. L. and Stager, G.
+  | Constructing Modern Knowledge Press
+  | 2013
 
 Information Science
 =============
